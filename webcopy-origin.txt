@@ -1,0 +1,252 @@
+Uri: https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap&display=swap
+File Name: D:\Template\mobirise.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Golos+Text:400,500,600,700,800,900&display=swap
+File Name: D:\Template\mobirise.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/golostext/v4/q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plVjRT5bGLs.ttf
+File Name: D:\Template\mobirise.com\s\golostext\v4\q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plVjRT5bGLs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/golostext/v4/q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plVRRT5bGLs.ttf
+File Name: D:\Template\mobirise.com\s\golostext\v4\q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plVRRT5bGLs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/golostext/v4/q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plW2Qj5bGLs.ttf
+File Name: D:\Template\mobirise.com\s\golostext\v4\q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plW2Qj5bGLs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/golostext/v4/q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plWPQj5bGLs.ttf
+File Name: D:\Template\mobirise.com\s\golostext\v4\q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plWPQj5bGLs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/golostext/v4/q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plX4Qj5bGLs.ttf
+File Name: D:\Template\mobirise.com\s\golostext\v4\q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plX4Qj5bGLs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/golostext/v4/q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plXRQj5bGLs.ttf
+File Name: D:\Template\mobirise.com\s\golostext\v4\q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plXRQj5bGLs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tiltwarp/v10/AlZc_zVDs5XpmO7yn3w7flUoytXJp3z29uEwmEMLEJljLXvT8UJSZTBx.ttf
+File Name: D:\Template\mobirise.com\s\tiltwarp\v10\AlZc_zVDs5XpmO7yn3w7flUoytXJp3z29uEwmEMLEJljLXvT8UJSZTBx.ttf
+Content Type: font/ttf
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\index.htm
+Content Type: text/html
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/bootstrap/css/bootstrap-grid.min.css
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\bootstrap\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/bootstrap/css/bootstrap-reboot.min.css
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\bootstrap\css\bootstrap-reboot.min.css
+Content Type: text/css
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/bootstrap/css/bootstrap.min.css
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/bootstrap/js/bootstrap.bundle.min.js
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/dropdown/css/style.css
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\dropdown\css\style.css
+Content Type: text/css
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/dropdown/js/navbar-dropdown.js
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\dropdown\js\navbar-dropdown.js
+Content Type: application/javascript
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/embla/embla.min.js
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\embla\embla.min.js
+Content Type: application/javascript
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/embla/script.js
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\embla\script.js
+Content Type: application/javascript
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/formoid.min.js
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\formoid.min.js
+Content Type: application/javascript
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/background1.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\background1.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/background2.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\background2.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/background4.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\background4.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image1.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image1.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image10.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image10.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image11.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image11.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image13.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image13.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image16.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image16.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image17.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image17.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image18.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image18.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image2.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image2.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image20.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image20.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image3.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image3.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image5.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image5.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image6.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image6.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/image8.jpg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\image8.jpg
+Content Type: image/jpeg
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/images/logo.png
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/mbr-switch-arrow/mbr-switch-arrow.js
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\mbr-switch-arrow\mbr-switch-arrow.js
+Content Type: application/javascript
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/mbr-tabs/mbr-tabs.js
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\mbr-tabs\mbr-tabs.js
+Content Type: application/javascript
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/mobirise/css/mbr-additional.css
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\mobirise\css\mbr-additional.css
+Content Type: text/css
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/parallax/jarallax.css
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\parallax\jarallax.css
+Content Type: text/css
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/parallax/jarallax.js
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\parallax\jarallax.js
+Content Type: application/javascript
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/recaptcha.css
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\recaptcha.css
+Content Type: text/css
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/smoothscroll/smooth-scroll.js
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\smoothscroll\smooth-scroll.js
+Content Type: application/javascript
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/socicon/css/styles.css
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\socicon\css\styles.css
+Content Type: text/css
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/socicon/fonts/socicon.eot
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\socicon\fonts\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/socicon/fonts/socicon.eot?
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\socicon\fonts\socicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/socicon/fonts/socicon.svg
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\socicon\fonts\socicon.svg
+Content Type: image/svg+xml
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/socicon/fonts/socicon.ttf
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\socicon\fonts\socicon.ttf
+Content Type: font/ttf
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/socicon/fonts/socicon.woff
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\socicon\fonts\socicon.woff
+Content Type: font/woff
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/socicon/fonts/socicon.woff2
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\socicon\fonts\socicon.woff2
+Content Type: font/woff2
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/theme/css/style.css
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\theme\css\style.css
+Content Type: text/css
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/theme/js/script.js
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\theme\js\script.js
+Content Type: application/javascript
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/web/assets/mobirise-icons/mobirise-icons.css
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\web\assets\mobirise-icons\mobirise-icons.css
+Content Type: text/css
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/web/assets/mobirise-icons/mobirise-icons.eot?spat4u
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\web\assets\mobirise-icons\mobirise-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/web/assets/mobirise-icons/mobirise-icons.svg?spat4u
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\web\assets\mobirise-icons\mobirise-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/web/assets/mobirise-icons/mobirise-icons.ttf?spat4u
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\web\assets\mobirise-icons\mobirise-icons.ttf
+Content Type: font/ttf
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/web/assets/mobirise-icons/mobirise-icons.woff?spat4u
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\web\assets\mobirise-icons\mobirise-icons.woff
+Content Type: font/woff
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/web/assets/mobirise-icons2/mobirise2.css
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\web\assets\mobirise-icons2\mobirise2.css
+Content Type: text/css
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/web/assets/mobirise-icons2/mobirise2.eot?f2bix4
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\web\assets\mobirise-icons2\mobirise2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/web/assets/mobirise-icons2/mobirise2.svg?f2bix4
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\web\assets\mobirise-icons2\mobirise2.svg
+Content Type: image/svg+xml
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/web/assets/mobirise-icons2/mobirise2.ttf?f2bix4
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\web\assets\mobirise-icons2\mobirise2.ttf
+Content Type: font/ttf
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/web/assets/mobirise-icons2/mobirise2.woff?f2bix4
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\web\assets\mobirise-icons2\mobirise2.woff
+Content Type: font/woff
+
+Uri: https://mobirise.com/extensions/gamem5/online-gaming-portal/assets/ytplayer/index.js
+File Name: D:\Template\mobirise.com\extensions\gamem5\online-gaming-portal\assets\ytplayer\index.js
+Content Type: application/javascript
+
